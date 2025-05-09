@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "mersure_winui3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "mersure_winui3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
